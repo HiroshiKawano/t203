@@ -1,4 +1,4 @@
-import axios from "axios";
+import "axios" from "axios";
 import "./styles.css";
 
 export default function App() {
